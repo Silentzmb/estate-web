@@ -1,6 +1,6 @@
 .DS_Store
 code/node_modules/
-code/dist/
+# code/dist/
 code/npm-debug.log*
 code/yarn-debug.log*
 code/yarn-error.log*
